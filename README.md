@@ -146,16 +146,18 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
+Download the dataset from Kaggle and place the CSV file in the same folder as the notebook.
+
+The expected file name is:
+
+```text
+factory_sensor_simulator_2040.csv
+```
+
 Then open and run the notebook:
 
 ```text
 factory_sensor_failure_prediction.ipynb
-```
-
-Make sure the dataset file is placed in the same folder as the notebook:
-
-```text
-factory_sensor_simulator_2040.csv
 ```
 
 ## 12. Tools Used
